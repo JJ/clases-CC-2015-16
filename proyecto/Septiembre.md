@@ -52,10 +52,22 @@ Rosendo Ismael Fernández Pérez: [@lrdzero](https://github.com/lrdzero)
 
 
 ## JJuegoCC
-**Enlace al repositorio:** [https://github.com/JaviSG91/JJuegoCC](https://github.com/JaviSG91/JJuegoCC)
+**Enlace al repositorio:** [https://github.com/JaviSG91/JuegoCC](https://github.com/JaviSG91/JuegoCC)
 
 **Enlace a la documentación Hito 1:** 
-[https://github.com/JaviSG91/JJuegoCC/blob/master/README.md](https://github.com/JaviSG91/JJuegoCC/blob/master/README.md#hito1)  
+[Hito 1](https://github.com/JaviSG91/JuegoCC/blob/master/README.md#hito1) 
+
+**Enlace a la documentación Hito 2:**
+[Hito 2](https://github.com/JaviSG91/JuegoCC/blob/master/README.md#hito-2)
+
+**Enlace a la documentación Hito 3:**
+[Hito 3](https://github.com/JaviSG91/JuegoCC/blob/master/README.md#hito-3)
+
+**Enlace a heroku:**
+[Heroku JuegoCC](https://juego-cc.herokuapp.com/)
+
+**Enlace a la documentación Hito 4:**
+[Hito 4](https://github.com/JaviSG91/JuegoCC/blob/master/README.md#hito-4)
 
 **Alumno:** 
 Javier Salido Gómez: [@JaviSG91](https://github.com/JaviSG91)
